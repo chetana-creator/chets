@@ -1,0 +1,3 @@
+int vol(int l, int b, int h){
+return(l*b*h);
+}

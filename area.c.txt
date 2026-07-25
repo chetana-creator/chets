@@ -1,0 +1,17 @@
+#include<stdio.h>
+int area(int, int);
+int main(){
+int l=10;
+int b=20;
+int h=30;
+ int r =area(l,b);
+int v=vol(l,b);
+printf("area is %d" ,r);
+printf("volume is %d" ,v);
+}
+int area(int l,b);{
+return(l*b);
+}
+int void(int l, int b, int h){
+return( l*b*h)
+}
